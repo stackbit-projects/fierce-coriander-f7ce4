@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/3.png
+    image: images/5.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
