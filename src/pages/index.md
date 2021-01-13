@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Testando o criador de site
+    title: Testando o criador de sites
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
